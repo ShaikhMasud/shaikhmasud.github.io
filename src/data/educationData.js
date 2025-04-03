@@ -5,7 +5,7 @@ export const educationData = [
         course: 'Don Bosco Intitute of Technology, Mumbai',
         startYear: '2022',
         endYear: '2026',
-        url: 'https:/dbit.in'
+        url: 'https://dbit.in'
     },
     {
         id: 2,

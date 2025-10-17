@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc7827ed.css",
-    "main.js": "/static/js/main.dac2c3e8.js",
+    "main.js": "/static/js/main.69634264.js",
     "static/js/453.1cc257ae.chunk.js": "/static/js/453.1cc257ae.chunk.js",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/static/media/expOrange.c3e9732086bcc521548240f2f8db0dcf.svg",
@@ -12,8 +12,9 @@
     "static/media/expPink.svg": "/static/media/expPink.ac1de145943281e48101635d936e07a1.svg",
     "static/media/expPurple.svg": "/static/media/expPurple.c054e7936866e05307edbf7a6d27ddde.svg",
     "static/media/expYellow.svg": "/static/media/expYellow.cff6e7009ac8cce0c8806daff98c4c87.svg",
-    "static/media/Masud Shaikh Resume.pdf": "/static/media/Masud Shaikh Resume.20fdae79557f5cbc167a.pdf",
+    "static/media/Masud Shaikh Resume.pdf": "/static/media/Masud Shaikh Resume.6b96e8435e5b898f003a.pdf",
     "static/media/protocols.jpg": "/static/media/protocols.b658e5fd7fcad0d0bb00.jpg",
+    "static/media/profileImg.jpg": "/static/media/profileImg.01cfa0369156f72f9cef.jpg",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/soc.gif": "/static/media/soc.a34326442469945024c0.gif",
     "static/media/schematics.jpg": "/static/media/schematics.3a2b6403861dec5835ee.jpg",
@@ -29,7 +30,6 @@
     "static/media/contactsRed.svg": "/static/media/contactsRed.ba8953ea60218eb007d8186287bf6d4e.svg",
     "static/media/contactsYellow.svg": "/static/media/contactsYellow.d8c261aa8262ac245caa2fee7361b816.svg",
     "static/media/firmware.jpg": "/static/media/firmware.fa909e626f2c96816cb4.jpg",
-    "static/media/profileImg.jpg": "/static/media/profileImg.afd6deeb69427db43107.jpg",
     "static/media/pinkTheme-girl.svg": "/static/media/pinkTheme-girl.154b10ae75d0a3c82f82ad14de085891.svg",
     "static/media/purpleTheme-girl.svg": "/static/media/purpleTheme-girl.593f901e9495f526074efef0203b9545.svg",
     "static/media/yellowTheme-girl.svg": "/static/media/yellowTheme-girl.a7ec3ad5e259b7948bb65e64de43c930.svg",
@@ -159,11 +159,11 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.bc7827ed.css.map": "/static/css/main.bc7827ed.css.map",
-    "main.dac2c3e8.js.map": "/static/js/main.dac2c3e8.js.map",
+    "main.69634264.js.map": "/static/js/main.69634264.js.map",
     "453.1cc257ae.chunk.js.map": "/static/js/453.1cc257ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7827ed.css",
-    "static/js/main.dac2c3e8.js"
+    "static/js/main.69634264.js"
   ]
 }

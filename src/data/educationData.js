@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Bachelor in Information Technology - 9.15 CGPA',
+        institution: 'Bachelor in Information Technology - 9.22 CGPA',
         course: 'Don Bosco Intitute of Technology, Mumbai',
         startYear: '2022',
         endYear: '2026',
